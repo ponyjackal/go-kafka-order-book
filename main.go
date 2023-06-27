@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"log"
 
-	database "github.com/amirnajdi/order-book/Database"
-	env "github.com/amirnajdi/order-book/Helper"
-	kafka "github.com/amirnajdi/order-book/Kafka"
-	orderModel "github.com/amirnajdi/order-book/Models"
-	router "github.com/amirnajdi/order-book/Router"
+	database "github.com/ponyjackal/order-book/Database"
+	env "github.com/ponyjackal/order-book/Helper"
+	kafka "github.com/ponyjackal/order-book/Kafka"
+	orderModel "github.com/ponyjackal/order-book/Models"
+	router "github.com/ponyjackal/order-book/Router"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 )

@@ -1,4 +1,4 @@
-module github.com/amirnajdi/order-book
+module github.com/ponyjackal/order-book
 
 go 1.20
 

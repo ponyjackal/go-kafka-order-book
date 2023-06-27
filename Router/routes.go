@@ -3,7 +3,7 @@ package router
 import (
 	"net/http"
 
-	orderModel "github.com/amirnajdi/order-book/Models"
+	orderModel "github.com/ponyjackal/order-book/Models"
 	"github.com/gin-gonic/gin"
 )
 

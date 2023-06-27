@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	env "github.com/amirnajdi/order-book/Helper"
-	orderModel "github.com/amirnajdi/order-book/Models"
+	env "github.com/ponyjackal/order-book/Helper"
+	orderModel "github.com/ponyjackal/order-book/Models"
 	"github.com/segmentio/kafka-go"
 )
 
